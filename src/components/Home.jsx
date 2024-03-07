@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div>
+    <div className="tavernepic">
         <img src="/images/Taverne.jpg" alt="Background Image" />
     </div>
   );
